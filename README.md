@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramachandran
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning BE(AIML)
+- 🌱 I’m currently studying BE(AIML)
 - 📫 How to reach me ramachandran.m.official@gmail.com
 - 😄 Pronouns: he/him
